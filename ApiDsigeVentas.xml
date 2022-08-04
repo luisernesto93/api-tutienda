@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiDsigeVentas</name>
+    </assembly>
+    <members>
+        <member name="T:ApiDsigeVentas.ReportDataSetAux.ReportDataSetAux">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSetAux.ReportDataSetAux.SP_IMPRIMIR_TICKET_CABESERADataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSetAux.ReportDataSetAux.SP_REPORTE_COMPRASDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSetAux.ReportDataSetAux.SP_REPORTE_VENTASDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSetAux.ReportDataSetAux.SP_IMPRIMIR_TICKET_CABESERARow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSetAux.ReportDataSetAux.SP_REPORTE_COMPRASRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSetAux.ReportDataSetAux.SP_REPORTE_VENTASRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSetAux.ReportDataSetAux.SP_IMPRIMIR_TICKET_CABESERARowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSetAux.ReportDataSetAux.SP_REPORTE_COMPRASRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSetAux.ReportDataSetAux.SP_REPORTE_VENTASRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset">
+             <summary>
+            Represents a strongly typed in-memory cache of data.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_RPT_MOVIMIENTOSDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_REPORTE_VENTASDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_REPORTE_COMPRASDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_REPORTES_ARTICULOSDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_REPORTES_MOVIMIENTOS_CAJADataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_REPORTES_HISTORIAL_ARTICULOSDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_REPORTES_AJUSTES_INVENTARIODataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_LISTAR_RESULTADOS_COMPRASDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_CARS_WASHDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_LISTAR_COMPROBANTE_PAGODataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_LISTAR_DETALLE_COMPROBANTE_PAGODataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_IMPRIMIR_COTIZACIONDataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_IMPRIMIR_TICKET_CABESERADataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_RPT_CORTES_CAJADataTable">
+             <summary>
+            Represents the strongly named DataTable class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_RPT_MOVIMIENTOSRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_REPORTE_VENTASRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_REPORTE_COMPRASRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_REPORTES_ARTICULOSRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_REPORTES_MOVIMIENTOS_CAJARow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_REPORTES_HISTORIAL_ARTICULOSRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_REPORTES_AJUSTES_INVENTARIORow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_LISTAR_RESULTADOS_COMPRASRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_CARS_WASHRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_LISTAR_COMPROBANTE_PAGORow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_LISTAR_DETALLE_COMPROBANTE_PAGORow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_IMPRIMIR_COTIZACIONRow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_IMPRIMIR_TICKET_CABESERARow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_RPT_CORTES_CAJARow">
+             <summary>
+            Represents strongly named DataRow class.
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_RPT_MOVIMIENTOSRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_REPORTE_VENTASRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_REPORTE_COMPRASRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_REPORTES_ARTICULOSRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_REPORTES_MOVIMIENTOS_CAJARowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_REPORTES_HISTORIAL_ARTICULOSRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_REPORTES_AJUSTES_INVENTARIORowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_LISTAR_RESULTADOS_COMPRASRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_CARS_WASHRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_LISTAR_COMPROBANTE_PAGORowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_LISTAR_DETALLE_COMPROBANTE_PAGORowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_IMPRIMIR_COTIZACIONRowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_IMPRIMIR_TICKET_CABESERARowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+        <member name="T:ApiDsigeVentas.ReportDataSet.ReportesDataset.SP_RPT_CORTES_CAJARowChangeEvent">
+             <summary>
+            Row event argument class
+            </summary>
+        </member>
+    </members>
+</doc>
